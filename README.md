@@ -11,7 +11,6 @@ Leveraging the **YOLOv8** model, the system achieves real-time detection with hi
 - **Real-Time Detection:** Utilizes YOLOv8 for fast and accurate hardhat detection, ensuring immediate identification of PPE compliance.
 - **Automated Monitoring:** Reduces the need for manual supervision by continuously tracking PPE usage on construction sites.
 - **Robust Performance:** Handles various environmental conditions and worker orientations, maintaining high precision and recall.
-- **Scalable Deployment:** Designed for easy integration into existing safety protocols and scalable across multiple sites.
 
 ## Technologies Used
 
@@ -19,17 +18,7 @@ Leveraging the **YOLOv8** model, the system achieves real-time detection with hi
 - **Faster R-CNN:** Evaluated as a comparative model for object detection tasks.
 - **PyTorch:** Deep learning framework used for model training and evaluation.
 - **OpenCV:** Utilized for video processing and visualization.
-- **Roboflow:** Source of the comprehensive Construction Site Safety Image Dataset.
+- **Roboflow:** Source of the Construction Site Safety Image Dataset.
 
 ## Getting Started
-
-To learn more about the project setup, installation, and usage, please refer to the [Documentation](./docs).
-
-## Contributions
-
-Contributions are welcome! Please see the [Contributing](./CONTRIBUTING.md) guidelines for more details.
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
+To learn more about the project setup and usage, please refer to the [Documentation](https://github.com/ManOnTheMove/MIE-1517-Project/blob/main/Final_Report.html).
